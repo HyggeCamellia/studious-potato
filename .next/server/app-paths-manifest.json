@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/Calculator/page": "app/Calculator/page.js",
+  "/ImageSwitcher/page": "app/ImageSwitcher/page.js",
+  "/Calendar/page": "app/Calendar/page.js",
+  "/Jisuan/page": "app/Jisuan/page.js",
+  "/Time/page": "app/Time/page.js",
+  "/page": "app/page.js"
+}
