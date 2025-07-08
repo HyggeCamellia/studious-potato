@@ -1,4 +1,4 @@
-// File: D:\DDDDDDDDDD代码\studious-potato\app\layout.tsx
+// File: D:\新建文件夹\studious-potato\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

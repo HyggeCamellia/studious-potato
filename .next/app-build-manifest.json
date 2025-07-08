@@ -11,10 +11,10 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/ImageSwitcher/page": [
+    "/Note/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/ImageSwitcher/page.js"
+      "static/chunks/app/Note/page.js"
     ],
     "/TaskBoard/page": [
       "static/chunks/webpack.js",
@@ -26,6 +26,16 @@
       "static/chunks/main-app.js",
       "static/chunks/app/Jisuan/page.js"
     ],
+    "/Time/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Time/page.js"
+    ],
+    "/ImageSwitcher/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/ImageSwitcher/page.js"
+    ],
     "/Calculator/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -35,21 +45,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/Calendar/page.js"
-    ],
-    "/Note/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/Note/page.js"
-    ],
-    "/Time/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/Time/page.js"
-    ],
-    "/_not-found/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
     ]
   }
 }
