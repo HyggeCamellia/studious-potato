@@ -1,4 +1,4 @@
-// File: D:\新建文件夹\studious-potato\app\ImageSwitcher\page.tsx
+// File: D:\劳嘉愉111\studious-potato\app\ImageSwitcher\page.tsx
 import * as entry from '../../../../app/ImageSwitcher/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

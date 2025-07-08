@@ -1,10 +1,4 @@
 {
   "/page": "app/page.js",
-  "/TaskBoard/page": "app/TaskBoard/page.js",
-  "/Jisuan/page": "app/Jisuan/page.js",
-  "/ImageSwitcher/page": "app/ImageSwitcher/page.js",
-  "/Time/page": "app/Time/page.js",
-  "/Calculator/page": "app/Calculator/page.js",
-  "/Note/page": "app/Note/page.js",
-  "/Calendar/page": "app/Calendar/page.js"
+  "/ImageSwitcher/page": "app/ImageSwitcher/page.js"
 }

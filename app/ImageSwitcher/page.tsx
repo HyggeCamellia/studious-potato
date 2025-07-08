@@ -5,6 +5,13 @@ const images = [
     '/img/four.png',
     '/img/five.png',
     '/img/six.png',
+    '/img/seven.png',
+    '/img/eight.png',
+    '/img/nine.png',
+    '/img/ten.png',
+    '/img/eleven.png',
+    '/img/twelve.png',
+    '/img/thirteen.png',
 ];
 
 const ImageSwitcher = () => {
