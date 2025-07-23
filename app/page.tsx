@@ -1,17 +1,13 @@
 'use client';
 import React from 'react';
-import { BrowserRouter } from "react-router-dom";
-import TaskBoard from './TaskBoard/page';
+// 删除react-router-dom导入
 import Overrall from './Overrall/page';
 
 export default function Home() {
   return (
     <>
-      <BrowserRouter>
+      {/* 删除BrowserRouter包裹 */}
       <Overrall></Overrall>
-       <TaskBoard></TaskBoard>
-      </BrowserRouter>
-
     </>
   )
 }

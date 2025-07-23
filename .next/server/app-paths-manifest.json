@@ -1,1 +1,9 @@
-{}
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/Note/page": "app/Note/page.js",
+  "/TaskBoard/page": "app/TaskBoard/page.js",
+  "/Jisuan/page": "app/Jisuan/page.js",
+  "/Calendar/page": "app/Calendar/page.js",
+  "/Time/page": "app/Time/page.js"
+}
